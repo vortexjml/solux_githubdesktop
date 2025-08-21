@@ -1,2 +1,3 @@
 커밋1
 reset1
+reset2
